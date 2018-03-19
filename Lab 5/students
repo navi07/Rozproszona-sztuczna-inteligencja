@@ -1,0 +1,21 @@
+[Student : 
+ID : 1
+ Name : Student1
+ Surname : Test1
+ Email : mail@wp.pl
+ Address : Kraków, Mickiewicza, 30, Małopolskie, 34-051
+ Phone number : 894856456
+ PESEL : 95050702336
+ Group : 1
+ Final grade : 4.2
+, Student : 
+ID : 2
+ Name : Student2
+ Surname : Test2
+ Email : mail@yahoo.com
+ Address : Kraków, Reymonta, 20, Małopolskie, 34-051
+ Phone number : 594855456
+ PESEL : 96050702336
+ Group : 1
+ Final grade : 3.6
+]
